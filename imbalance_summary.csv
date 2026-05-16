@@ -1,0 +1,28 @@
+Label,Negative,Positive,IR(maj/min),Pos%
+Product issues,1405,22,63.863636,0.0154
+Skin and subcutaneous tissue disorders,109,1318,12.091743,0.9236
+Nervous system disorders,123,1304,10.601626,0.9138
+"Pregnancy, puerperium and perinatal conditions",1302,125,10.416,0.0876
+Gastrointestinal disorders,129,1298,10.062016,0.9096
+General disorders and administration site conditions,135,1292,9.57037,0.9054
+Surgical and medical procedures,1214,213,5.699531,0.1493
+Social circumstances,1176,251,4.685259,0.1759
+"Congenital, familial and genetic disorders",1174,253,4.640316,0.1773
+Investigations,276,1151,4.17029,0.8066
+Vascular disorders,319,1108,3.473354,0.7765
+Endocrine disorders,1104,323,3.417957,0.2263
+"Respiratory, thoracic and mediastinal disorders",367,1060,2.888283,0.7428
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",1051,376,2.795213,0.2635
+Immune system disorders,403,1024,2.540943,0.7176
+Psychiatric disorders,411,1016,2.472019,0.712
+Infections and infestations,421,1006,2.389549,0.705
+Musculoskeletal and connective tissue disorders,430,997,2.318605,0.6987
+Metabolism and nutrition disorders,431,996,2.310905,0.698
+Cardiac disorders,439,988,2.250569,0.6924
+"Injury, poisoning and procedural complications",481,946,1.966736,0.6629
+Renal and urinary disorders,516,911,1.765504,0.6384
+Blood and lymphatic system disorders,542,885,1.632841,0.6202
+Eye disorders,551,876,1.589837,0.6139
+Ear and labyrinth disorders,768,659,1.165402,0.4618
+Hepatobiliary disorders,684,743,1.086257,0.5207
+Reproductive system and breast disorders,700,727,1.038571,0.5095
