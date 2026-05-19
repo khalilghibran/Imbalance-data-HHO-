@@ -172,12 +172,3 @@ HHO_POPULATION = 12            # Population size
 - **SIDER**: Kuhn et al. (2016) — Adverse Drug Reaction database
   - http://sideeffects.embl.de/
 
-## Author & Contact
-
-Project completed as part of **Semester 4 coursework**  
-Location: `/home/gibannn/kuliah/sem4/HHO_GA/`
-
----
-
-**Last Updated**: May 2026  
-**Status**: Pipeline complete with full HHO refinement evaluation
